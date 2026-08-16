@@ -49,3 +49,4 @@ models/deepfake_model.keras
 models/deepfake_modelv1.keras
 models/deepfake_modelv2.keras
 models/trainv2.ipynb
+models/models/
