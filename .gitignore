@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+echoshield_env/
+
+# Datasets and audio files
+dataset/
+Both Speaker Audio/
+Fake Audio/
+Real Audio/
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated/test files
+*.xlsx
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment/secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+# Development/older versions
+appv*.py
+authv*.py
+databasev*.py
+reportsv*.py
+utilsv*.py
+trainv*.ipynb
+# Older model versions
+models/deepfake_model.keras
+models/deepfake_modelv1.keras
+models/deepfake_modelv2.keras
+models/trainv2.ipynb
