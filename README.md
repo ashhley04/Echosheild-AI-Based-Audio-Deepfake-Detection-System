@@ -6,6 +6,13 @@ EchoShield is an AI-powered audio deepfake detection and forensic analysis platf
 
 Built using Python, TensorFlow, Librosa, scikit-learn, and Streamlit, EchoShield provides audio classification, batch analysis, user authentication, analysis history, and downloadable forensic reports.
 
+## 🎥 Project Demo
+
+Watch EchoSheild in action and explore how AI can help make video content accessible across different Indian regional languages.
+
+**▶️ [Click here to watch the Echosheild Demo][(https://youtu.be/SmNuI9wyMeE)**
+
+
 ## ✨ Key Features
 
 - 🎙️ **Audio Deepfake Detection:** Classifies audio recordings as `bonafide` (genuine) or `spoof` (synthetic or manipulated).
